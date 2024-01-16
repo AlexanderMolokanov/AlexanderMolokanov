@@ -27,4 +27,5 @@ HTML, CSS, DOM, Express, MongoDB, Flexbox, GitBASH, JavaScript, Node.js, React, 
 
 ## Профили в социальных сетях
 https://vk.com/gmkff
+
 www.linkedin.com/in/ggmkv
