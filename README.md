@@ -21,31 +21,18 @@ Here are some ideas to get you started:
 
 ## Навыки в программировании
 *HTML
-
 *CSS
-
 *DOM
-
 *Express
-
 *MongoDB 
-
 *Flexbox 
-
 *GitBASH
-
 *JavaScript
-
 *Node.js
-
 *React
-
 *React Router
-
 *Webpack
-
 *ООП
-
 *Python
 
 ## Коротко о научных достиженниях
